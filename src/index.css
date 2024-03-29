@@ -64,6 +64,7 @@ code {
 .first-main-parent {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .first-main-info {
@@ -77,7 +78,7 @@ code {
 }
 
 .main-mic {
-  width: 100%;
+  width: 50%;
 }
 
 
