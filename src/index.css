@@ -518,12 +518,13 @@ code {
     display: none;
   }
 
-  .mic-model {
-    display: none;
-  }
 
   .for-background {
     width: 100%;
+  }
+
+  .first-main-parent {
+    flex-direction: column;
   }
 
   .first-main-info {
