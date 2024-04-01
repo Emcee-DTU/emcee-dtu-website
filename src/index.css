@@ -518,6 +518,10 @@ code {
     display: none;
   }
 
+  .mic-model {
+    display: none;
+  }
+
   .for-background {
     width: 100%;
   }
