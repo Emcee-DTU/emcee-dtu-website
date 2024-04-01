@@ -527,6 +527,11 @@ code {
     flex-direction: column;
   }
 
+  .mic-model {
+    display: none;
+  }
+
+
   .first-main-info {
     width: 60%;
     height: 100%;
