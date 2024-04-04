@@ -157,7 +157,9 @@ code {
   padding-left: 20px;
 }
 
-
+.who-are-we-img {
+  border-radius: 20px;
+}
 
 
 
@@ -216,6 +218,7 @@ code {
 
 .card-parent {
   display: flex;
+  position: relative;
 
   /* border: 1px solid black; */
   /* height: 13em; */
@@ -223,11 +226,13 @@ code {
   button {
     height: 40px;
     width: 40px;
-    position: relative;
+    position: absolute;
     background: none;
     justify-self: right;
     border: none;
-    background-image: url(./component/secondpage/arrow_cards.png)
+    background-image: url(./component/secondpage/arrow_cards.png);
+    right: -10px;
+    top: 0px;
   }
 
   button:hover {

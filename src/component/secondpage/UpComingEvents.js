@@ -19,10 +19,13 @@ export default function UpComingEvents() {
             <div className="upcoming-events-content">
                 <img src={Rectangle} />
                 <div className="upcoming-events-part1">
-                    <h3>Dyna-MIC</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur. Urna in in etiam in malesuada ornare blandit elementum. Leo neque at cras eu imperdiet odio eu.</p>
+                    <h3>DynaMIC</h3>
+                    <p>Presenting, To Catch a Drift, DynaMIC, an open-mic competition with the hope that you will present your art of receptivity! </p>
                     <div className="cards-craddle">
-                        <UpComingEvents_cards link="#" heading="Rhythm & Rhyme" description="Lorem ipsum dolor sit amet consectetur. Urna in in etiam in malesuada ornare blandit elementum. Leo neque at cras eu imperdiet odio eu." tags="#Poetry" />
+                        <UpComingEvents_cards link="https://unstop.com/p/emcee-dtu-dynamic-dtu-new-delhi-935238"
+                            heading="Register for DynaMIC"
+                            description="Participants can bring their style to the stage, weaving tales, sharing laughter, or delivering powerful spoken-word performances."
+                        />
                     </div>
                 </div>
             </div>

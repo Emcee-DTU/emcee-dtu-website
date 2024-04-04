@@ -38,7 +38,12 @@ export default function Main() {
                 <div className="first-main-info">
                     <img src={logo} alt="mainlogo" />
 
-                    <p>Lorem ipsum dolor sit amet consectetur. Habitant laoreet nibh purus condimentum sit fames ut vitae. Elementum tempus amet pellentesque in urna justo duis nunc pellentesque. Ac mauris a pellentesque vulputate lacinia tellus. Dui vitae id dui fames morbi sit amet.</p>
+                    <p>Welcome to EMCEE DTU, the vibrant anchoring society at Delhi Technological University!
+                        With a passion for hosting engaging events and captivating audiences,
+                        we take pride in creating memorable experiences.
+                        From academic conferences to cultural extravaganzas,
+                        our team of enthusiastic anchors ensures seamless execution and unparalleled entertainment.
+                    </p>
 
                     <a className="registration-button"
                         href="https://unstop.com/p/emcee-dtu-dynamic-dtu-new-delhi-935238"

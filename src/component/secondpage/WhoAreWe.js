@@ -19,7 +19,12 @@ export default function WhoAreWe() {
             <div className="who-are-we-content">
                 <div className="who-are-we-content-part1">
                     <img src={Rectangle} className="" />
-                    <p className="who-are-we-content-para">Lorem ipsum dolor sit amet consectetur. Urna in in etiam in malesuada ornare blandit elementum. Leo neque at cras eu imperdiet odio eu. Faucibus aliquam enim mattis non. Sed pellentesque sed vitae varius. Imperdiet eget tincidunt est rhoncus id. A nunc venenatis in erat mauris. Nunc at sit lacus a aliquam. Aliquam urna donec augue volutpat aliquam consectetur sem luctus. Donec malesuada at risus enim in malesuada viverra id. Sit volutpat consectetur amet sed condimentum lacus ut neque. Donec ut non amet faucibus.</p>
+                    <p className="who-are-we-content-para">
+                        EMCEE DTU stands as the premier anchoring society at Delhi Technological University, renowned for its dynamic energy and impeccable event management prowess. With a talented team of anchors, we bring a perfect blend of charisma and professionalism to every occasion, ensuring seamless execution and unforgettable experiences. From academic symposiums to cultural extravaganzas, EMCEE DTU has left an indelible mark on a diverse array of events, setting the standard for excellence in anchoring.
+                        <br />
+                        <br />
+                        Beyond our anchoring expertise, EMCEE DTU fosters a supportive community where members can develop their skills and forge lasting connections. Through collaborative efforts and shared passion, our members thrive in an environment that encourages personal growth and professional development. Join us in our journey as we continue to redefine the art of anchoring and event management at DTU."
+                    </p>
                 </div>
 
                 <img src={AreWe} className="who-are-we-img" />
