@@ -12,9 +12,9 @@ export default function Contact() {
                     <h3>Got an Event?</h3>
                     <p>Contact us and we will love to cover it!</p>
                     <div className="contact-socials">
-                        <button><img src={instagram} /></button>
-                        <button><img src={twitter} /></button>
-                        <button><img src={whatsapp} /></button>
+                        <button onClick={() => window.open("https://www.instagram.com/emcee_dtu/")}><img src={instagram} /></button>
+                        <button onClick={() => window.open("https://www.instagram.com/emcee_dtu/")}><img src={twitter} /></button>
+                        <button onClick={() => window.open("https://www.instagram.com/emcee_dtu/")}><img src={whatsapp} /></button>
                     </div>
                 </div>
                 <div className="contact-number">
